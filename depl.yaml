@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://gitlab.com/schoolpmn/kube/argocdtest.git
+    repoURL: https://github.com/bennanicloudperso/aaa.git
     targetRevision: HEAD
     path: dev
   destination:
