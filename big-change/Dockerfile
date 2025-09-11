@@ -1,4 +1,4 @@
-FROM node:20.5.1-bookworm-slim
+FROM node:20.19.5-bookworm-slim
 
 WORKDIR /usr/src/app
 COPY package*.json ./
